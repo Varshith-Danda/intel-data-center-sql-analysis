@@ -83,7 +83,7 @@ intel-data-center-sql-analysis/
 
 ## What I Did
 
-**Task 1 — Energy Generation**
+**Task 1 - Energy Generation**
 
 I started by calculating which regions produce more energy than they consume. I also looked at total renewable energy and what percentage of each region's energy mix comes from renewable sources.
 
@@ -91,7 +91,7 @@ What I found: The Mid-Atlantic has the highest energy surplus at 31,693,087 MW. 
 
 ---
 
-**Task 2 — Building an Energy Type Dataset**
+**Task 2 - Building an Energy Type Dataset**
 
 I built a new dataset that separates renewable energy from fossil fuel energy by date and region, then combined them using UNION ALL. This dataset was used to power the Tableau trend charts.
 
@@ -99,7 +99,7 @@ What I found: Fossil fuels still dominate most regions but renewable energy has 
 
 ---
 
-**Task 3 — Power Plant Analysis**
+**Task 3 - Power Plant Analysis**
 
 I joined two tables to analyze power plants at a deeper level, looking at how many renewable plants each region has and how efficient their solar plants are.
 
@@ -107,7 +107,7 @@ What I found: The Midwest has 71 solar plants but generates much less energy tha
 
 ---
 
-**Task 4 — Hourly Energy Trends**
+**Task 4 - Hourly Energy Trends**
 
 I looked at how renewable energy generation changes throughout the day by extracting the hour from timestamps using date_part, then compared California vs Northwest side by side.
 
