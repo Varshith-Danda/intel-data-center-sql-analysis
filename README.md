@@ -71,7 +71,11 @@ intel-data-center-sql-analysis/
 │
 ├── README.md
 ├── images/
-│   └── Dashboard.png
+│   ├── Dashboard.png
+│   ├── net_production.png
+│   ├── renewable_energy_pct.png
+│   ├── energy_source_by_region.png
+│   └── energy_by_state.png
 └── sql/
     ├── task1_energy_generation.sql
     ├── task2_energy_by_type.sql
@@ -115,9 +119,22 @@ What I found: California's renewable energy drops significantly at night because
 
 ---
 
-## Dashboard
+## Visualizations
 
+### Full Dashboard
 ![Dashboard](images/Dashboard.png)
+
+### Net Production by Region
+![Net Production](images/net_production.png)
+
+### Renewable Energy Percentage by Region
+![Renewable Energy %](images/renewable_energy_pct.png)
+
+### Energy Source Trends Over Time
+![Energy Source by Region](images/energy_source_by_region.png)
+
+### Energy by State
+![Energy by State](images/energy_by_state.png)
 
 ---
 
