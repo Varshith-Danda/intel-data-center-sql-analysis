@@ -1,7 +1,7 @@
 -- =================================================================
 -- TASK 1: Energy Generation Analysis
 -- Project : Intel Data Center Location Analysis
--- Author  : SaiKrishnaVarshith Danda
+-- Author  : Sai Krishna Varshith Danda
 -- Goal    : Identify which US regions produce energy surplus
 --           and rely most on renewable sources
 -- =================================================================
