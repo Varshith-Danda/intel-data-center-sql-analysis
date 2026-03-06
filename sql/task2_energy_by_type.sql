@@ -1,7 +1,7 @@
 -- =================================================================
 -- TASK 2: Generating New Data by Energy Type
 -- Project : Intel Data Center Location Analysis
--- Author  : SaiKrishnaVarshith Danda
+-- Author  : Sai Krishna Varshith Danda
 -- Goal    : Build a combined dataset that separates renewable
 --           energy from fossil fuel energy over time
 -- =================================================================
