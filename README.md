@@ -66,7 +66,7 @@ Total energy production per plant for the year 2022.
 
 ## Project Structure
 
-'''
+```
 intel-data-center-sql-analysis/
 │
 ├── README.md
@@ -77,7 +77,7 @@ intel-data-center-sql-analysis/
     ├── task2_energy_by_type.sql
     ├── task3_power_plant_analysis.sql
     └── task4_hourly_energy_trends.sql
-'''
+```
 
 ---
 
