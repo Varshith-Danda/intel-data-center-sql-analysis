@@ -66,7 +66,6 @@ Total energy production per plant for the year 2022.
 
 ## Project Structure
 
-```
 intel-data-center-sql-analysis/
 │
 ├── README.md
@@ -77,7 +76,6 @@ intel-data-center-sql-analysis/
     ├── task2_energy_by_type.sql
     ├── task3_power_plant_analysis.sql
     └── task4_hourly_energy_trends.sql
-```
 
 ---
 
@@ -123,7 +121,7 @@ What I found: California's renewable energy drops significantly at night because
 
 ## My Recommendation
 
-Based on everything I analyzed, I would recommend the **Northwest region — specifically Washington or Oregon** for Intel's new data center.
+Based on everything I analyzed, I would recommend the **Northwest region - specifically Washington or Oregon** for Intel's new data center.
 
 The Northwest has a strong energy surplus, the highest renewable energy percentage of any region, and its hydropower keeps generation stable at all hours of the day. For a data center that never shuts off, that round-the-clock reliability is what matters most.
 
