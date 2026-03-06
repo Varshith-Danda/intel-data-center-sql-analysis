@@ -75,7 +75,8 @@ intel-data-center-sql-analysis/
 │   ├── net_production.png
 │   ├── renewable_energy_pct.png
 │   ├── energy_source_by_region.png
-│   └── energy_by_state.png
+│   ├── energy_by_state.png
+│   └── certificate.png
 └── sql/
     ├── task1_energy_generation.sql
     ├── task2_energy_by_type.sql
@@ -145,3 +146,11 @@ Based on everything I analyzed, I would recommend the **Northwest region - speci
 The Northwest has a strong energy surplus, the highest renewable energy percentage of any region, and its hydropower keeps generation stable at all hours of the day. For a data center that never shuts off, that round-the-clock reliability is what matters most.
 
 The Mid-Atlantic was close in terms of surplus energy but falls behind on sustainability. California is strong on renewables but too dependent on solar, which creates gaps at night.
+
+---
+
+## Certificate
+
+This project was completed as part of The Global Tech Experience in collaboration with Intel's Sustainability Team.
+
+![Certificate](images/certificate.png)
